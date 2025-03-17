@@ -1,4 +1,4 @@
-# $^{40}$K Decay Constant
+# 40K Decay Constant
 
 Notebook for the determination of ages and propagation of all levels of uncertaity for the various calibrations of the total 40K decay constant and Fish Canyon sanidine neutron fluence monitor in 40Ar/39Ar geochronology.
 
